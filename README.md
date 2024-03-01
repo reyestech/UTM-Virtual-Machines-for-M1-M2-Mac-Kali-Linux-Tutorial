@@ -116,7 +116,7 @@ UTM is utilized by a diverse user base, including software developers, system ad
 
 3. System Administration and Maintenance: System administrators use UTM to simulate network environments, troubleshoot system issues, and perform maintenance tasks without affecting their primary macOS environment. 
 Security Research and Testing: UTM supports the creation of virtualized security testing environments, facilitating the evaluation of cybersecurity tools, techniques, and procedures in a controlled and isolated environment.<br />
-<br /> <br />  
+<br /> 
 
 <img src="https://i.imgur.com/WSK2lK0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />  <br />  
@@ -190,8 +190,7 @@ Click the download icon and select the latest Kali Linux version compatible with
 <br />
 
 <img src="https://i.imgur.com/eTtLgxj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-
-<br />
+<br /> <br />
 
 <img src="https://i.imgur.com/SN1eJbP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <br /> <br />
@@ -210,23 +209,20 @@ Open the UTM application from your "Applications" folder.
 
 Create a New Virtual Machine: <br />
 Create a New Virtual Machine: In UTM, select"Create a New Virtual Machine" to begin the setup process. Create a New Virtual Machine
-<br />  <br />  
+<br /> 
 
 <img src="https://i.imgur.com/te0olrC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-
-<br />  
+<br /> <br />
 
 Select Virtualize Option: <br />
 Choose the "Virtualize" option and select"Linux" as the operating system for the virtual machine. 
 <br />  <br />  
 
 <img src="https://i.imgur.com/ALiII9F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-
 <br />  <br />  
 
 <img src="https://i.imgur.com/PuzxN82.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-
-<br />  
+<br /> <br />
 
 Choose the Kali Linux ISO: <br />
 Opt not to use Apple Virtualization and proceed with QEMU. 
@@ -263,16 +259,17 @@ Navigate to the "Settings" tab and add a new serial device in the devices sectio
 <br /> <br />
 
 <img src="https://i.imgur.com/zpPaZtK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-<br /> <br />
+<br /> 
 
 Grant Disk Access: <br />
 Ensure that UTM has full disk access by granting permissions in your Mac's system settings under "Privacy and Security." 
 <br /> 
+
 <img src="https://i.imgur.com/ztKhWgm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <br /> <br />
 
 <img src="https://i.imgur.com/alxZMxx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-<br />  
+<br /> <br />
 
 Reboot UTM: <br />
 If necessary, reboot UTM to apply the changes made to disk access permissions. 
@@ -298,15 +295,12 @@ Follow the on-screen prompts to select the Kali Linux system's language, locatio
 <br /> <br />
 
 <img src="https://i.imgur.com/rmCD90I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-
 <br /> <br />
 
 <img src="https://i.imgur.com/hV2Qw7M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-
 <br /> <br />
 
 <img src="https://i.imgur.com/LrYMBTX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-
 <br /> <br />
 
 Guided Partitioning: <br />
@@ -314,11 +308,9 @@ Select the timezone and proceed with guided partitioning (use the entire disk) f
 <br /> 
 
 <img src="https://i.imgur.com/I6PPe45.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-
 <br /> <br />
 
 <img src="https://i.imgur.com/gwpku5V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-
 <br /> <br />
 
 Software Selection: <br />
@@ -344,7 +336,6 @@ Upon receiving the "Finish the Installation" prompt, continue and reboot UTM to 
 <br />
 
 <img src="https://i.imgur.com/LsC4NYS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-
 <br /> <br />
 
 Clear CD/DVD Option: <br />
@@ -352,7 +343,6 @@ Re-launch UTM and clear the CD/DVD option in the settings.
 <br /> 
 
 <img src="https://i.imgur.com/B0uYAad.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-
 <br /> <br />
 
 Start your Virtual Machine: <br />
@@ -375,7 +365,6 @@ Execute the following commands to install necessary packages, update repositorie
 <br /> 
 
 <img src="https://i.imgur.com/if43yBG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-
 <br /> <br />  
 
 <img src="https://i.imgur.com/vyvufdZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -388,7 +377,7 @@ This comprehensive run book offers a detailed and easy-to-follow guide for setti
 
 <img src="https://i.imgur.com/pw4NvMC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<br />
+<br /> <br />
 
 <img src="https://i.imgur.com/AggZzny.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
