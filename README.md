@@ -74,7 +74,6 @@ Some pre-installed tools and utilities available in Kali Linux include:
 Usage and Community:  <br />
 Kali Linux is widely used by cybersecurity professionals, penetration testers, ethical hackers, and security enthusiasts worldwide. Its extensive documentation, community forums, and online resources make it accessible to users of all skill levels. The active community of contributors and developers ensures regular updates, bug fixes, and improvements to the distribution, keeping it at the forefront of cybersecurity testing and research. 
 
-
 Summary<br />
 Kali Linux is a versatile and powerful platform for conducting cybersecurity assessments, digital forensics investigations, and security research. Its comprehensive set of pre-installed tools, user-friendly interface, and active community support make it an indispensable resource for professionals and enthusiasts in information security. 
 <br />  <br />  
@@ -103,10 +102,10 @@ UTM seamlessly integrates with macOS, allowing users to leverage native system f
 
 6. Open-Source Foundation: <br />
 UTM is built upon open-source technologies, with its source code available on GitHub for community contribution and collaboration. This open development model fosters innovation, transparency, and continuous improvement, ensuring that UTM remains a reliable and cutting-edge virtualization solution for macOS users.
-<br />  <br />  
-<img src="https://i.imgur.com/azTPDJR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />  <br />
 
-<br /> 
+<img src="https://i.imgur.com/azTPDJR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /> <br />
 
 Usage and Applications: <br />
 UTM is utilized by a diverse user base, including software developers, system administrators, educators, and hobbyists, for various purposes: <br />
