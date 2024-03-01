@@ -30,7 +30,6 @@ Accessing type 2 hypervisors can be daunting for security professionals and stud
 
 <h3> What is Kali Linux? <h3>
 Kali Linux is a free and open-source Debian-based Linux distribution. It comes with a comprehensive set of pre-installed tools and utilities specifically designed to perform various cybersecurity testing such as penetration testing, digital forensics, and security audits. 
- 
 <br /> <br />  
 
 <img src="https://i.imgur.com/pGFHB6D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br />
@@ -149,7 +148,7 @@ Kali Linux and UTM benefit from an active and vibrant community of users, develo
 
 </h3>Summary </h3> <br />
 Kali Linux works well with UTM due to its ARM64 compatibility, hardware acceleration support, macOS integration, ease of use, and strong community support. Together, these factors contribute to a seamless and reliable experience for users seeking to run Kali Linux on Mac M1 and M2 systems using UTM as the virtualization platform. 
-<br /> 
+<br /> <br />
 
 <img src="https://i.imgur.com/6ZvyGJm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> <br />
@@ -157,7 +156,7 @@ Kali Linux works well with UTM due to its ARM64 compatibility, hardware accelera
 <h2> How to install and use Kali Linux and UTM: </h2>
 1. Download UTM and Kali Linux: <br />
 - <b> Navigate to the UTM Website: Open your web browser and go to https://mac.getutm.app to access the UTM website.
- <br />  
+<br /> <br />
  
 <img src="https://i.imgur.com/GF6X6LG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <br />  <br />  
@@ -203,9 +202,10 @@ Verify that the downloaded Kali Linux file is intact and complete.
 
 3. Creating a Virtual Machine in UTM: <br />
 Open the UTM application from your "Applications" folder.
-<br />  <br />  
+<br />
 
 <img src="https://i.imgur.com/DydQBuC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /> <br />
 
 Create a New Virtual Machine: <br />
 Create a New Virtual Machine: In UTM, select"Create a New Virtual Machine" to begin the setup process. Create a New Virtual Machine
@@ -216,7 +216,7 @@ Create a New Virtual Machine: In UTM, select"Create a New Virtual Machine" to be
 
 Select Virtualize Option: <br />
 Choose the "Virtualize" option and select"Linux" as the operating system for the virtual machine. 
-<br />  <br />  
+<br />
 
 <img src="https://i.imgur.com/ALiII9F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <br />  <br />  
@@ -259,7 +259,7 @@ Navigate to the "Settings" tab and add a new serial device in the devices sectio
 <br /> <br />
 
 <img src="https://i.imgur.com/zpPaZtK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-<br /> 
+<br /> <br />
 
 Grant Disk Access: <br />
 Ensure that UTM has full disk access by granting permissions in your Mac's system settings under "Privacy and Security." 
@@ -336,7 +336,7 @@ Upon receiving the "Finish the Installation" prompt, continue and reboot UTM to 
 <br />
 
 <img src="https://i.imgur.com/LsC4NYS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-<br /> <br />
+<br /> 
 
 Clear CD/DVD Option: <br />
 Re-launch UTM and clear the CD/DVD option in the settings. 
