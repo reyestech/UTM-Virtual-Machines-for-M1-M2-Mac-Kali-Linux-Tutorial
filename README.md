@@ -202,7 +202,6 @@ Verify that the downloaded Kali Linux file is intact and complete.
 
 3. Creating a Virtual Machine in UTM: <br />
 Open the UTM application from your "Applications" folder.
-<br />
 
 <img src="https://i.imgur.com/DydQBuC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> <br />
@@ -279,7 +278,6 @@ If necessary, reboot UTM to apply the changes made to disk access permissions.
 5. Installation of Kali Linux: <br />
 Initiate Installation Process: 
 Reopen UTM and initiate the installation process by selecting the start I
-<br />
 
 <img src="https://i.imgur.com/5hhUTlY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <br /> <br />
@@ -333,10 +331,9 @@ Wait for the installation process to complete
 6. Post-Installation Configuration: <br />
 Reboot UTM: <br />
 Upon receiving the "Finish the Installation" prompt, continue and reboot UTM to apply the changes. 
-<br />
 
 <img src="https://i.imgur.com/LsC4NYS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-<br /> 
+<br /> <br />
 
 Clear CD/DVD Option: <br />
 Re-launch UTM and clear the CD/DVD option in the settings. 
@@ -355,7 +352,6 @@ Start the virtual machine and select the Kali Linux option.
 7. Terminal Setup and Update: Open Terminal: <br />
 Open Terminal: <br />
 Open the terminal within Kali Linux.
-<br />
 
 <img src="https://i.imgur.com/Cb4hVoi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <<br /> <br />
@@ -376,7 +372,6 @@ This comprehensive run book offers a detailed and easy-to-follow guide for setti
 <br /> <br />
 
 <img src="https://i.imgur.com/pw4NvMC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
 <br /> <br />
 
 <img src="https://i.imgur.com/AggZzny.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
