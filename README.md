@@ -149,51 +149,52 @@ Kali Linux and UTM benefit from an active and vibrant community of users, develo
 
 </h3>Summary </h3> <br />
 Kali Linux works well with UTM due to its ARM64 compatibility, hardware acceleration support, macOS integration, ease of use, and strong community support. Together, these factors contribute to a seamless and reliable experience for users seeking to run Kali Linux on Mac M1 and M2 systems using UTM as the virtualization platform. 
-<br /> <br />  
-<img src="https://i.imgur.com/6ZvyGJm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /> 
 
-<br />  <br />  
+<img src="https://i.imgur.com/6ZvyGJm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /> <br />
 
 <h2> How to install and use Kali Linux and UTM: </h2>
 1. Download UTM and Kali Linux: <br />
 - <b> Navigate to the UTM Website: Open your web browser and go to https://mac.getutm.app to access the UTM website.
- <br />  <br />  
+ <br />  
  
 <img src="https://i.imgur.com/GF6X6LG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <br />  <br />  
 
 Download UTM:  <br />
 On the UTM website, locate the download button and click on it to initiate the download process. 
-<br />  <br />  
+<br /> 
 
 <img src="https://i.imgur.com/yps0uW1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<br /> <br />
 
 Install UTM:  <br />
 Navigate to your "Downloads" folder once the download is complete.
 Locate the downloaded UTM file (usually in .dmg format) and double-click to open it.
 Drag the UTM icon to your "Applications" folder to install UTM on your Mac. 
-<br />  <br />  
+<br /> 
+
 <img src="https://i.imgur.com/LoZPARL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-<br />  
+<br /> <br />
 
 Download Kali Linux: <br />
 Visit the Kali Linux website at https://www.kali.org/get-kali/#kali-platforms. 
-<br />  <br />  
-<img src="https://i.imgur.com/AgItYjq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<br />
 
-<br />  <br />  
+<img src="https://i.imgur.com/AgItYjq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<br /> <br />
 
 Find the image: <br />
 Click the download icon and select the latest Kali Linux version compatible with Apple Silicon (ARM64).
-<br />  <br />  
+<br />
 
 <img src="https://i.imgur.com/eTtLgxj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
-<br />  <br />  
+<br />
 
 <img src="https://i.imgur.com/SN1eJbP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-
-<br /> 
+<br /> <br />
 
 2. Verify Kali Linux Download: <br />
 Navigate to your "Downloads" folder once the download is complete. 
