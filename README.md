@@ -23,20 +23,19 @@ Our team faced some challenges when setting up our SIEM lab environment. Team me
 <h2> Description </h2> 
 Accessing type 2 hypervisors can be daunting for security professionals and students when deploying Linux distributions on their Apple Mac computers. To add to the complexity, the affordable versions of hypervisors like VMware and VirtualBox can be incompatible, further complicating the access of Linux distributions on Apple Computers. However, there is a solution to this problem - UTM. By leveraging virtualization, UTM can act as a front end to Apple's built-in hypervisor, a macOS feature, allowing us to access Kali Linux - a Debian-based distribution. It's worth noting that these steps can be used to virtualize other Linux distributions, such as Ubuntu or RedHat distributions like CentOS.
 
-<h2>Runbook:</h2>
 
- 
 <img src="https://i.imgur.com/ap10O7K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  <br />
 
 <br />
  
 <img src="https://i.imgur.com/gfOvXDn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<br />  <br />
+<br />  
 
 <h3> What is Kali Linux? <h3>
 Kali Linux is a free and open-source Debian-based Linux distribution. It comes with a comprehensive set of pre-installed tools and utilities specifically designed to perform various cybersecurity testing such as penetration testing, digital forensics, and security audits. 
-<br /> <br />
+ 
+<br /> 
 
 <img src="https://i.imgur.com/pGFHB6D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br />
 
@@ -60,7 +59,7 @@ Kali Linux features comprehensive exploitation frameworks like Metasploit, allow
 
 <img src="https://i.imgur.com/ZaJJJ4n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<br />   <br />
+<br />  
 
 Pre-installed Tools: <br />
 Some pre-installed tools and utilities available in Kali Linux include: 
@@ -76,19 +75,17 @@ Some pre-installed tools and utilities available in Kali Linux include:
 
 <img src="https://i.imgur.com/kAqGa69.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<br />  <br />
+<br />
 
 Usage and Community:  <br />
 Kali Linux is widely used by cybersecurity professionals, penetration testers, ethical hackers, and security enthusiasts worldwide. Its extensive documentation, community forums, and online resources make it accessible to users of all skill levels. The active community of contributors and developers ensures regular updates, bug fixes, and improvements to the distribution, keeping it at the forefront of cybersecurity testing and research. 
 
-<br />  <br />
+<br />  
 
 </h3> Summary </h3> <br />
 Kali Linux is a versatile and powerful platform for conducting cybersecurity assessments, digital forensics investigations, and security research. Its comprehensive set of pre-installed tools, user-friendly interface, and active community support make it an indispensable resource for professionals and enthusiasts in information security. 
 
-<br />  <br />
-
-<img src="https://i.imgur.com/azTPDJR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />  
 
 <h2>What is UTM?</h2> 
 UTM (Universal Type Manager):  <br />
@@ -115,19 +112,23 @@ UTM seamlessly integrates with macOS, allowing users to leverage native system f
 6. Open-Source Foundation: <br />
 UTM is built upon open-source technologies, with its source code available on GitHub for community contribution and collaboration. This open development model fosters innovation, transparency, and continuous improvement, ensuring that UTM remains a reliable and cutting-edge virtualization solution for macOS users.
 
-<br /> <br />
+<img src="https://i.imgur.com/azTPDJR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<br /> 
 
 </h3> Usage and Applications: </h3> <br />
 UTM is utilized by a diverse user base, including software developers, system administrators, educators, and hobbyists, for various purposes: <br />
 
-1. Software Development and Testing: UTM enables developers to create isolated development environments, test software compatibility across different operating systems, and evaluate application performance under various configurations.<br />
-2. 
-3. Education and Training: UTM is a valuable tool for educational institutions and training providers, allowing students to explore different operating systems, practice system administration tasks, and learn about virtualization concepts hands-on. <br />
+1. Software Development and Testing: UTM enables developers to create isolated development environments, test software compatibility across different operating systems, and evaluate application performance under various configurations.
+ 
+2. Education and Training: UTM is a valuable tool for educational institutions and training providers, allowing students to explore different operating systems, practice system administration tasks, and learn about virtualization concepts hands-on. <br />
 
-4. System Administration and Maintenance: System administrators use UTM to simulate network environments, troubleshoot system issues, and perform maintenance tasks without affecting their primary macOS environment. 
+3. System Administration and Maintenance: System administrators use UTM to simulate network environments, troubleshoot system issues, and perform maintenance tasks without affecting their primary macOS environment. 
 Security Research and Testing: UTM supports the creation of virtualized security testing environments, facilitating the evaluation of cybersecurity tools, techniques, and procedures in a controlled and isolated environment.<br />
 
-<br />  <br />
+<br /> 
+
+<img src="https://i.imgur.com/WSK2lK0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </h3> Summary </h3> <br />
 UTM is a versatile and powerful virtualization platform for macOS, offering various features and capabilities to meet users' needs across various industries and disciplines. Its intuitive interface, robust performance, and integration with macOS make it an indispensable tool for running virtual machines on Mac computers and exploring different operating systems and software environments. 
@@ -155,63 +156,86 @@ UTM offers an intuitive user interface that simplifies creating, configuring, an
 6. Community Support: <br />
 Kali Linux and UTM benefit from an active and vibrant community of users, developers, and contributors who provide support, feedback, and resources. This collaborative ecosystem ensures that users can find assistance, troubleshooting tips, and guidance when running Kali Linux on UTM, enhancing the virtualization setup's overall user experience and reliability. 
 
-<br />  <br />
-
+<br /> 
 </h3>Summary </h3> <br />
 Kali Linux works well with UTM due to its ARM64 compatibility, hardware acceleration support, macOS integration, ease of use, and strong community support. Together, these factors contribute to a seamless and reliable experience for users seeking to run Kali Linux on Mac M1 and M2 systems using UTM as the virtualization platform. 
 
-<br /> <br />
-
 <img src="https://i.imgur.com/6ZvyGJm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<h2> How to install and use Kali Linux and UTM: </h2> <br />
+<h2> How to install and use Kali Linux and UTM: </h2>
 1. Download UTM and Kali Linux: <br />
-Navigate to the UTM Website: <br />
-Open your web browser and go to https://mac.getutm.app to access the UTM website. 
-
+- <b> Navigate to the UTM Website: Open your web browser and go to https://mac.getutm.app to access the UTM website. 
+ 
+<img src="https://i.imgur.com/GF6X6LG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+ 
 Download UTM:  <br />
 On the UTM website, locate the download button and click on it to initiate the download process. 
+
+<img src="https://i.imgur.com/yps0uW1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
 Install UTM:  <br />
 Navigate to your "Downloads" folder once the download is complete.
 Locate the downloaded UTM file (usually in .dmg format) and double-click to open it.
 Drag the UTM icon to your "Applications" folder to install UTM on your Mac. 
 
+<img src="https://i.imgur.com/LoZPARL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
+
 Download Kali Linux: <br />
 Visit the Kali Linux website at https://www.kali.org/get-kali/#kali-platforms. 
+
+<img src="https://i.imgur.com/AgItYjq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
 Find the image: <br />
 Click the download icon and select the latest Kali Linux version compatible with Apple Silicon (ARM64).
 
-<br />  <br />
+<img src="https://i.imgur.com/eTtLgxj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
+<img src="https://i.imgur.com/SN1eJbP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
+<br /> 
 
 2. Verify Kali Linux Download: <br />
 Navigate to your "Downloads" folder once the download is complete. 
 Verify that the downloaded Kali Linux file is intact and complete.
 
-<br />  <br />
+<br />  
 
 3. Creating a Virtual Machine in UTM: <br />
-Open the UTM application from your "Applications" folder. 
+Open the UTM application from your "Applications" folder.
+ 
+<img src="https://i.imgur.com/DydQBuC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Create a New Virtual Machine: <br />
 Create a New Virtual Machine: In UTM, select"Create a New Virtual Machine" to begin the setup process. Create a New Virtual Machine
 
+<img src="https://i.imgur.com/te0olrC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
 Select Virtualize Option: <br />
 Choose the "Virtualize" option and select"Linux" as the operating system for the virtual machine. 
+
+<img src="https://i.imgur.com/ALiII9F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
+<img src="https://i.imgur.com/PuzxN82.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
 Choose the Kali Linux ISO: <br />
 Opt not to use Apple Virtualization and proceed with QEMU. 
 Browse and select the Kali Linux ISO image downloaded earlier. 
 
+<img src="https://i.imgur.com/9WHJozr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
 Specify RAM Allocation: <br />
 Specify the desired amount of RAM allocation for the virtual machine (e.g., 6GB) for optimal performance. 
 Enable hardware OpenGL acceleration for smooth graphical performance. 
 
+<img src="https://i.imgur.com/hEUaFst.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
 Allocate Storage Space: <br />
 Allocate default storage space (e.g., 64GB) for the virtual machine's storage. 
 
-<br />  <br />
+<img src="https://i.imgur.com/gO3Vf4E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
+<br /> 
 
 4. Virtual Machine Configuration: <br />
 Rename Virtual Machine:  <br />
@@ -220,54 +244,96 @@ Rename the virtual machine to a descriptive name (e.g.," Kali Linux") for easy i
 Add Serial Device: <br />
 Navigate to the "Settings" tab and add a new serial device in the devices section. 
 
+<img src="https://i.imgur.com/cnXH5O1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
+<img src="https://i.imgur.com/zpPaZtK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
+
 Grant Disk Access: <br />
 Ensure that UTM has full disk access by granting permissions in your Mac's system settings under "Privacy and Security." 
+
+<img src="https://i.imgur.com/ztKhWgm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
+<img src="https://i.imgur.com/alxZMxx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
 Reboot UTM: <br />
 If necessary, reboot UTM to apply the changes made to disk access permissions. 
 
-<br />  <br />
+<br /> 
 
 5. Installation of Kali Linux: <br />
 Initiate Installation Process: 
 Reopen UTM and initiate the installation process by selecting the start I
 
+<img src="https://i.imgur.com/5hhUTlY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
+<img src="https://i.imgur.com/aTr2gX2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
 Follow On-Screen Prompts: <br />
 Follow the on-screen prompts to select the Kali Linux system's language, location, keyboard configuration, hostname, domain, username, and password. 
+
+<img src="https://i.imgur.com/bBa0cMu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
+<img src="https://i.imgur.com/rmCD90I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
+<img src="https://i.imgur.com/hV2Qw7M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
+<img src="https://i.imgur.com/LrYMBTX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
 Guided Partitioning: <br />
 Select the timezone and proceed with guided partitioning (use the entire disk) for the installation.
 
+<img src="https://i.imgur.com/I6PPe45.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
+<img src="https://i.imgur.com/gwpku5V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
 Software Selection: <br />
 Choose software selection options based on your requirements. 
+
+<img src="https://i.imgur.com/Ct3yepQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
 Wait for Installation: <br />
 Wait for the installation process to complete
 
-<br />  <br />
+<img src="https://i.imgur.com/588rHmM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
+<img src="https://i.imgur.com/ImNlGf1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<br />
 
 6. Post-Installation Configuration: <br />
 Reboot UTM: <br />
 Upon receiving the "Finish the Installation" prompt, continue and reboot UTM to apply the changes. 
 
+<img src="https://i.imgur.com/LsC4NYS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
 Clear CD/DVD Option: <br />
 Re-launch UTM and clear the CD/DVD option in the settings. 
+
+<img src="https://i.imgur.com/B0uYAad.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
 Start your Virtual Machine: <br />
 Start the virtual machine and select the Kali Linux option. 
 
-<br />  <br />
+<img src="https://i.imgur.com/iJJcaBU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
+<br /> 
 
 7. Terminal Setup and Update: Open Terminal: <br />
 Open Terminal: <br />
 Open the terminal within Kali Linux.
 
+<img src="https://i.imgur.com/Cb4hVoi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
 Execute Commands: <br />
 Execute the following commands to install necessary packages, update repositories, and upgrade existing software within the virtual machine.
 
-<br />  <br />
 
-<img src="https://i.imgur.com/WSK2lK0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/if43yBG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
+<br /> 
+
+<img src="https://i.imgur.com/vyvufdZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 <br /><br />
 
@@ -276,7 +342,7 @@ This comprehensive run book offers a detailed and easy-to-follow guide for setti
 
 <br /> <br />
 
-<img src="https://i.imgur.com/vyvufdZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pw4NvMC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <br />
 
