@@ -59,7 +59,7 @@ Kali Linux features comprehensive exploitation frameworks like Metasploit, allow
 
 <img src="https://i.imgur.com/ZaJJJ4n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<br />  
+<br />  <br />  
 
 Pre-installed Tools: <br />
 Some pre-installed tools and utilities available in Kali Linux include: 
@@ -75,14 +75,13 @@ Some pre-installed tools and utilities available in Kali Linux include:
 
 <img src="https://i.imgur.com/kAqGa69.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<br />
+<br /><br />  
 
 Usage and Community:  <br />
 Kali Linux is widely used by cybersecurity professionals, penetration testers, ethical hackers, and security enthusiasts worldwide. Its extensive documentation, community forums, and online resources make it accessible to users of all skill levels. The active community of contributors and developers ensures regular updates, bug fixes, and improvements to the distribution, keeping it at the forefront of cybersecurity testing and research. 
+ 
 
-<br />  
-
-</h3> Summary </h3> <br />
+Summary<br />
 Kali Linux is a versatile and powerful platform for conducting cybersecurity assessments, digital forensics investigations, and security research. Its comprehensive set of pre-installed tools, user-friendly interface, and active community support make it an indispensable resource for professionals and enthusiasts in information security. 
 
 <br />  
@@ -91,7 +90,7 @@ Kali Linux is a versatile and powerful platform for conducting cybersecurity ass
 UTM (Universal Type Manager):  <br />
 UTM (Universal Type Manager) is a virtualization platform designed explicitly for macOS, developed by Felix Schwarz. It enables users to run virtual machines (VMs) on their Mac computers, allowing them to use multiple operating systems simultaneously without additional hardware. UTM offers a user-friendly interface and robust functionality, making it an ideal choice for users seeking to leverage virtualization for various purposes, including software testing, development, education, and more. 
 
-<br />  <br />
+<br /> 
 
 Key Features: <br />
 1. Versatile Virtualization: <br />
@@ -114,7 +113,7 @@ UTM is built upon open-source technologies, with its source code available on Gi
 
 <img src="https://i.imgur.com/azTPDJR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<br /> 
+<br /> <br />  
 
 </h3> Usage and Applications: </h3> <br />
 UTM is utilized by a diverse user base, including software developers, system administrators, educators, and hobbyists, for various purposes: <br />
@@ -130,12 +129,14 @@ Security Research and Testing: UTM supports the creation of virtualized security
 
 <img src="https://i.imgur.com/WSK2lK0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-</h3> Summary </h3> <br />
+<br />  <br />  
+
+Summary <br />
 UTM is a versatile and powerful virtualization platform for macOS, offering various features and capabilities to meet users' needs across various industries and disciplines. Its intuitive interface, robust performance, and integration with macOS make it an indispensable tool for running virtual machines on Mac computers and exploring different operating systems and software environments. 
 
-<br />  <br />
+<br /> 
 
-<h2> Why does Kali and UTM work so well? </h2> <br />
+<h2> Why does Kali and UTM work so well? </h2> 
 Key Features: <br />
 
 1. ARM64 Compatibility: <br />
@@ -158,13 +159,17 @@ Kali Linux and UTM benefit from an active and vibrant community of users, develo
 
 <br /> 
 </h3>Summary </h3> <br />
-Kali Linux works well with UTM due to its ARM64 compatibility, hardware acceleration support, macOS integration, ease of use, and strong community support. Together, these factors contribute to a seamless and reliable experience for users seeking to run Kali Linux on Mac M1 and M2 systems using UTM as the virtualization platform. 
+Kali Linux works well with UTM due to its ARM64 compatibility, hardware acceleration support, macOS integration, ease of use, and strong community support. Together, these factors contribute to a seamless and reliable experience for users seeking to run Kali Linux on Mac M1 and M2 systems using UTM as the virtualization platform. <br />  
 
 <img src="https://i.imgur.com/6ZvyGJm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+<br />  
+
 <h2> How to install and use Kali Linux and UTM: </h2>
 1. Download UTM and Kali Linux: <br />
-- <b> Navigate to the UTM Website: Open your web browser and go to https://mac.getutm.app to access the UTM website. 
+- <b> Navigate to the UTM Website: Open your web browser and go to https://mac.getutm.app to access the UTM website.
+ 
+ <br />  
  
 <img src="https://i.imgur.com/GF6X6LG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
  
