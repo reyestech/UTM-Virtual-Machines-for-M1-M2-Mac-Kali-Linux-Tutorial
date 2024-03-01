@@ -1,12 +1,12 @@
-
+# UTM | Apple Silicone | Linux Virtualization
 <h1>Hector M. Reyes  | SOC Analysts </h1>
 </h1> Group 17: Script K™</h1>
-<h1> UTM | Virtual Machines for M1/M2 Mac (Kali Linux) Tutorial </h1>
+<h1>  Comprehensive Guide: <br />
+Setting up Linux Virtual Machines using <br />
+UTM for M1 & M2 Apple Silicone </h1>
 
  ### [Fullstack Academy - Capstone Project](https://docs.google.com/document/d/1mizcEhlYScNc8-_g/edit)
-Comprehensive Guide: <br />
-Setting up Kali Linux on UTM for Mac M1 and M2
-<br />
+
 
 <h2>Purpose</h2> 
 Our team faced some challenges when setting up our SIEM lab environment. Team members using Apple silicon-based computers encountered difficulties creating virtual machines on their personal computers. We were able to resolve this issue by using UTM, a virtualized environment that is designed for M1 and M2 Macs. This allowed our team members to have Linux distributions on their computers that they could use on the go. We created a tutorial to help other information security professionals and students who may be facing similar issues.
