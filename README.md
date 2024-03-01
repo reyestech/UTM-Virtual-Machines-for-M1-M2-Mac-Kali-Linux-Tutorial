@@ -9,8 +9,7 @@ Setting up Kali Linux on UTM for Mac M1 and M2
 <br />
 
 <h2>Purpose</h2> 
-Our team encountered some challenges while setting up our SIEM lab environment. Specifically, team members using Apple silicon-based computers faced difficulties creating virtual machines on their personal computers. We addressed this issue using UTM, a virtualized environment designed for M1 and M2 Macs. This allowed our team members to have Linux distributions on their computers that they could use on the go. We created a tutorial to assist other information security professionals and students facing similar issues.
-
+Our team faced some challenges when setting up our SIEM lab environment. Team members using Apple silicon-based computers encountered difficulties creating virtual machines on their personal computers. We were able to resolve this issue by using UTM, a virtualized environment that is designed for M1 and M2 Macs. This allowed our team members to have Linux distributions on their computers that they could use on the go. We created a tutorial to help other information security professionals and students who may be facing similar issues.
  
 <h2>Tools & Environments Used </h2>
 - <b> UTM (Universal Type Manager) | QEMU | Virtualization
@@ -19,7 +18,7 @@ Our team encountered some challenges while setting up our SIEM lab environment. 
 - <b> Memory: 4 GiB | Disk: 64 GiB </b>
 
 <h2> Description </h2> 
-Accessing type 2 hypervisors can be challenging for security professionals and students who want to deploy Linux distributions on their Apple Mac computers. The affordable versions of VMware and VirtualBox hypervisors are often incompatible, leading to difficulties accessing these tools. However, with UTM, we will use virtualization to access Kali Linux, a Debian-based distribution. UTM can act as our front end to Apple's built-in hypervisor, a macOS feature. We will use Kali Linux, but these steps can be used to virtualize other Linux distributions, such as Ubuntu or RedHat distributions like CentOS.
+Accessing type 2 hypervisors can be daunting for security professionals and students when deploying Linux distributions on their Apple Mac computers. To add to the complexity, the affordable versions of hypervisors like VMware and VirtualBox can be incompatible, further complicating the access of Linux distributions on Apple Computers. However, there is a solution to this problem - UTM. By leveraging virtualization, UTM can act as a front end to Apple's built-in hypervisor, a macOS feature, allowing us to access Kali Linux - a Debian-based distribution. It's worth noting that these steps can be used to virtualize other Linux distributions, such as Ubuntu or RedHat distributions like CentOS.
 
 <h2>Runbook:</h2>
 
@@ -264,8 +263,10 @@ Execute the following commands to install necessary packages, update repositorie
 
 <img src="https://i.imgur.com/WSK2lK0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+<br /><br />
+
 </h2>Conclusion </h2> <br />
-This detailed run book provides step-by-step instructions for setting up Kali Linux on UTM for Mac M1 and M2 computers, ensuring a smooth and successful installation process. The same steps can be taken to install other operating systems.\
+This comprehensive run book offers a detailed and easy-to-follow guide for setting up Kali Linux on UTM for Mac M1 and M2 computers. With this step-by-step instruction manual, you can ensure a smooth and hassle-free installation process. Not only that but the same set of instructions can be used to install other operating systems as well, making it an indispensable reference for anyone looking to install an OS on their Mac.
 
 <br /> <br />
 
