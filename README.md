@@ -108,7 +108,7 @@ UTM is built upon open-source technologies, with its source code available on Gi
 
 <br /> 
 
-</h3> Usage and Applications: </h3> <br />
+Usage and Applications: <br />
 UTM is utilized by a diverse user base, including software developers, system administrators, educators, and hobbyists, for various purposes: <br />
 
 1. Software Development and Testing: UTM enables developers to create isolated development environments, test software compatibility across different operating systems, and evaluate application performance under various configurations.
@@ -153,7 +153,7 @@ Kali Linux works well with UTM due to its ARM64 compatibility, hardware accelera
 <br /> <br />  
 <img src="https://i.imgur.com/6ZvyGJm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<br />  
+<br />  <br />  
 
 <h2> How to install and use Kali Linux and UTM: </h2>
 1. Download UTM and Kali Linux: <br />
@@ -161,9 +161,11 @@ Kali Linux works well with UTM due to its ARM64 compatibility, hardware accelera
  <br />  <br />  
  
 <img src="https://i.imgur.com/GF6X6LG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
- 
+<br />  <br />  
+
 Download UTM:  <br />
 On the UTM website, locate the download button and click on it to initiate the download process. 
+<br />  <br />  
 
 <img src="https://i.imgur.com/yps0uW1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
@@ -171,19 +173,24 @@ Install UTM:  <br />
 Navigate to your "Downloads" folder once the download is complete.
 Locate the downloaded UTM file (usually in .dmg format) and double-click to open it.
 Drag the UTM icon to your "Applications" folder to install UTM on your Mac. 
-
+<br />  <br />  
 <img src="https://i.imgur.com/LoZPARL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-
+<br />  
 
 Download Kali Linux: <br />
 Visit the Kali Linux website at https://www.kali.org/get-kali/#kali-platforms. 
-
+<br />  <br />  
 <img src="https://i.imgur.com/AgItYjq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
+<br />  <br />  
 
 Find the image: <br />
 Click the download icon and select the latest Kali Linux version compatible with Apple Silicon (ARM64).
+<br />  <br />  
 
 <img src="https://i.imgur.com/eTtLgxj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
+<br />  <br />  
 
 <img src="https://i.imgur.com/SN1eJbP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
@@ -197,35 +204,48 @@ Verify that the downloaded Kali Linux file is intact and complete.
 
 3. Creating a Virtual Machine in UTM: <br />
 Open the UTM application from your "Applications" folder.
- 
+<br />  <br />  
+
 <img src="https://i.imgur.com/DydQBuC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Create a New Virtual Machine: <br />
 Create a New Virtual Machine: In UTM, select"Create a New Virtual Machine" to begin the setup process. Create a New Virtual Machine
+<br />  <br />  
 
 <img src="https://i.imgur.com/te0olrC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
+<br />  
+
 Select Virtualize Option: <br />
 Choose the "Virtualize" option and select"Linux" as the operating system for the virtual machine. 
+<br />  <br />  
 
 <img src="https://i.imgur.com/ALiII9F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
+<br />  <br />  
+
 <img src="https://i.imgur.com/PuzxN82.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
+<br />  
 
 Choose the Kali Linux ISO: <br />
 Opt not to use Apple Virtualization and proceed with QEMU. 
 Browse and select the Kali Linux ISO image downloaded earlier. 
-
+<br />  <br />  
 <img src="https://i.imgur.com/9WHJozr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
+<br />  
 
 Specify RAM Allocation: <br />
 Specify the desired amount of RAM allocation for the virtual machine (e.g., 6GB) for optimal performance. 
 Enable hardware OpenGL acceleration for smooth graphical performance. 
+<br />  <br />  
 
 <img src="https://i.imgur.com/hEUaFst.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
 Allocate Storage Space: <br />
 Allocate default storage space (e.g., 64GB) for the virtual machine's storage. 
+<br />  <br />  
 
 <img src="https://i.imgur.com/gO3Vf4E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
@@ -237,18 +257,26 @@ Rename the virtual machine to a descriptive name (e.g.," Kali Linux") for easy i
 
 Add Serial Device: <br />
 Navigate to the "Settings" tab and add a new serial device in the devices section. 
+<br />  <br />  
 
 <img src="https://i.imgur.com/cnXH5O1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
+<br />  <br />  
 
 <img src="https://i.imgur.com/zpPaZtK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
 
 Grant Disk Access: <br />
 Ensure that UTM has full disk access by granting permissions in your Mac's system settings under "Privacy and Security." 
+<br />  <br />  
 
 <img src="https://i.imgur.com/ztKhWgm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
+<br />  <br />  
+
 <img src="https://i.imgur.com/alxZMxx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
+<br />  
 
 Reboot UTM: <br />
 If necessary, reboot UTM to apply the changes made to disk access permissions. 
@@ -258,55 +286,87 @@ If necessary, reboot UTM to apply the changes made to disk access permissions.
 5. Installation of Kali Linux: <br />
 Initiate Installation Process: 
 Reopen UTM and initiate the installation process by selecting the start I
+<br />  <br />
 
 <img src="https://i.imgur.com/5hhUTlY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
+<br />  <br />  
+
 <img src="https://i.imgur.com/aTr2gX2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
+<br />  
 
 Follow On-Screen Prompts: <br />
 Follow the on-screen prompts to select the Kali Linux system's language, location, keyboard configuration, hostname, domain, username, and password. 
+<br />  <br />  
 
 <img src="https://i.imgur.com/bBa0cMu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
+<br />  <br />  
+
 <img src="https://i.imgur.com/rmCD90I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
+<br />  <br />  
 
 <img src="https://i.imgur.com/hV2Qw7M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
+<br />  <br />  
+
 <img src="https://i.imgur.com/LrYMBTX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
+<br />  
 
 Guided Partitioning: <br />
 Select the timezone and proceed with guided partitioning (use the entire disk) for the installation.
-
+<br />  <br />  
 <img src="https://i.imgur.com/I6PPe45.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
+<br />  <br />  
 
 <img src="https://i.imgur.com/gwpku5V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
+<br />  
+
 Software Selection: <br />
 Choose software selection options based on your requirements. 
+<br />  <br />  
 
 <img src="https://i.imgur.com/Ct3yepQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
+<br />  
+
 Wait for Installation: <br />
 Wait for the installation process to complete
+<br />  <br />  
 
 <img src="https://i.imgur.com/588rHmM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
+<br />  <br />  
+
 <img src="https://i.imgur.com/ImNlGf1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
 <br />
 
 6. Post-Installation Configuration: <br />
 Reboot UTM: <br />
 Upon receiving the "Finish the Installation" prompt, continue and reboot UTM to apply the changes. 
+<br />  <br />
 
 <img src="https://i.imgur.com/LsC4NYS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
+<br />  
+
 Clear CD/DVD Option: <br />
 Re-launch UTM and clear the CD/DVD option in the settings. 
+<br />  <br />  
 
 <img src="https://i.imgur.com/B0uYAad.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
+<br />  
+
 Start your Virtual Machine: <br />
 Start the virtual machine and select the Kali Linux option. 
+<br />  <br />  
 
 <img src="https://i.imgur.com/iJJcaBU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
@@ -315,30 +375,31 @@ Start the virtual machine and select the Kali Linux option.
 7. Terminal Setup and Update: Open Terminal: <br />
 Open Terminal: <br />
 Open the terminal within Kali Linux.
+<br />  <br />
 
 <img src="https://i.imgur.com/Cb4hVoi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
+<br />  
+
 Execute Commands: <br />
 Execute the following commands to install necessary packages, update repositories, and upgrade existing software within the virtual machine.
-
+<br />  <br />  
 
 <img src="https://i.imgur.com/if43yBG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
-<br /> 
+<br /> <br />  
 
 <img src="https://i.imgur.com/vyvufdZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />  <br />  
 
-
-<br /><br />
 
 </h2>Conclusion </h2> <br />
 This comprehensive run book offers a detailed and easy-to-follow guide for setting up Kali Linux on UTM for Mac M1 and M2 computers. With this step-by-step instruction manual, you can ensure a smooth and hassle-free installation process. Not only that but the same set of instructions can be used to install other operating systems as well, making it an indispensable reference for anyone looking to install an OS on their Mac.
-
 <br /> <br />
 
 <img src="https://i.imgur.com/pw4NvMC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<br />
+<br /><br />  
 
 <img src="https://i.imgur.com/AggZzny.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
