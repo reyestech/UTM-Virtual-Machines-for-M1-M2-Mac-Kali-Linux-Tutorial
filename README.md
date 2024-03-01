@@ -5,7 +5,7 @@
 Setting up Linux Virtual Machines using <br />
 UTM for M1 & M2 Apple Silicone </h1>
 
- ### [Fullstack Academy - Capstone Project](https://docs.google.com/document/d/1mizcEhlYScNc8-_g/edit)
+ ### [Alternative Link | Google Docs | UTM: Kali Linux and Runbook](https://docs.google.com/document/d/e/2PACX-1vTEHYzS_IspFNTA6ePgzQaRqJIXLyUErbEIFvJ-rrroQvCRjvP8XDmRN_4UiNT-lS1XznvQMT3Amm0N/pub)
 
 
 <h2>Purpose</h2> 
@@ -289,63 +289,53 @@ Reopen UTM and initiate the installation process by selecting the start I
 <br />  <br />
 
 <img src="https://i.imgur.com/5hhUTlY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-
-<br />  <br />  
+<br /> <br />
 
 <img src="https://i.imgur.com/aTr2gX2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-
-<br />  
+<br /> <br />
 
 Follow On-Screen Prompts: <br />
 Follow the on-screen prompts to select the Kali Linux system's language, location, keyboard configuration, hostname, domain, username, and password. 
-<br />  <br />  
+<br /> <br />
 
 <img src="https://i.imgur.com/bBa0cMu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-
-<br />  <br />  
+<br /> <br />
 
 <img src="https://i.imgur.com/rmCD90I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-
-<br />  <br />  
+<br /> <br />
 
 <img src="https://i.imgur.com/hV2Qw7M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-
-<br />  <br />  
+<br /> <br />
 
 <img src="https://i.imgur.com/LrYMBTX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-
-<br />  
+<br /> <br />
 
 Guided Partitioning: <br />
 Select the timezone and proceed with guided partitioning (use the entire disk) for the installation.
 <br />  <br />  
-<img src="https://i.imgur.com/I6PPe45.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
-<br />  <br />  
+<img src="https://i.imgur.com/I6PPe45.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<br /> <br />
 
 <img src="https://i.imgur.com/gwpku5V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-
-<br />  
+<br /> <br />
 
 Software Selection: <br />
 Choose software selection options based on your requirements. 
 <br />  <br />  
 
 <img src="https://i.imgur.com/Ct3yepQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-
-<br />  
+<br /> <br /> 
 
 Wait for Installation: <br />
 Wait for the installation process to complete
 <br />  <br />  
 
 <img src="https://i.imgur.com/588rHmM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-
-<br />  <br />  
+<br /> <br />
 
 <img src="https://i.imgur.com/ImNlGf1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-
-<br />
+<br /> <br />
 
 6. Post-Installation Configuration: <br />
 Reboot UTM: <br />
@@ -353,40 +343,31 @@ Upon receiving the "Finish the Installation" prompt, continue and reboot UTM to 
 <br />  <br />
 
 <img src="https://i.imgur.com/LsC4NYS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-
-<br />  
+<br /> <br />
 
 Clear CD/DVD Option: <br />
 Re-launch UTM and clear the CD/DVD option in the settings. 
-<br />  <br />  
 
 <img src="https://i.imgur.com/B0uYAad.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-
-<br />  
+<br /> <br />
 
 Start your Virtual Machine: <br />
 Start the virtual machine and select the Kali Linux option. 
 <br />  <br />  
 
 <img src="https://i.imgur.com/iJJcaBU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-
-<br /> 
+<br /> <br />
 
 7. Terminal Setup and Update: Open Terminal: <br />
 Open Terminal: <br />
 Open the terminal within Kali Linux.
-<br />  <br />
-
 <img src="https://i.imgur.com/Cb4hVoi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-
-<br />  
+<<br /> <br />
 
 Execute Commands: <br />
 Execute the following commands to install necessary packages, update repositories, and upgrade existing software within the virtual machine.
-<br />  <br />  
 
 <img src="https://i.imgur.com/if43yBG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-
 <br /> <br />  
 
 <img src="https://i.imgur.com/vyvufdZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -399,7 +380,7 @@ This comprehensive run book offers a detailed and easy-to-follow guide for setti
 
 <img src="https://i.imgur.com/pw4NvMC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<br /><br />  
+<br />
 
 <img src="https://i.imgur.com/AggZzny.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
