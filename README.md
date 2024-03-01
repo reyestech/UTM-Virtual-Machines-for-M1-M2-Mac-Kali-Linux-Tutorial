@@ -22,7 +22,6 @@ Our team faced some challenges when setting up our SIEM lab environment. Team me
 
 <h2> Description </h2> 
 Accessing type 2 hypervisors can be daunting for security professionals and students when deploying Linux distributions on their Apple Mac computers. To add to the complexity, the affordable versions of hypervisors like VMware and VirtualBox can be incompatible, further complicating the access of Linux distributions on Apple Computers. However, there is a solution to this problem - UTM. By leveraging virtualization, UTM can act as a front end to Apple's built-in hypervisor, a macOS feature, allowing us to access Kali Linux - a Debian-based distribution. It's worth noting that these steps can be used to virtualize other Linux distributions, such as Ubuntu or RedHat distributions like CentOS.
-
 <br />  <br />  
 
 <img src="https://i.imgur.com/ap10O7K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  <br />
