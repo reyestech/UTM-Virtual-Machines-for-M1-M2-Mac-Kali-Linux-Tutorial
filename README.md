@@ -119,9 +119,12 @@ UTM is built upon open-source technologies, with its source code available on Gi
 
 </h3> Usage and Applications: </h3> <br />
 UTM is utilized by a diverse user base, including software developers, system administrators, educators, and hobbyists, for various purposes: <br />
-- <b> Software Development and Testing: UTM enables developers to create isolated development environments, test software compatibility across different operating systems, and evaluate application performance under various configurations.<br /> 
-- <b> Education and Training: UTM is a valuable tool for educational institutions and training providers, allowing students to explore different operating systems, practice system administration tasks, and learn about virtualization concepts hands-on. <br />
-- <b> System Administration and Maintenance: System administrators use UTM to simulate network environments, troubleshoot system issues, and perform maintenance tasks without affecting their primary macOS environment. 
+
+1. Software Development and Testing: UTM enables developers to create isolated development environments, test software compatibility across different operating systems, and evaluate application performance under various configurations.<br />
+2. 
+3. Education and Training: UTM is a valuable tool for educational institutions and training providers, allowing students to explore different operating systems, practice system administration tasks, and learn about virtualization concepts hands-on. <br />
+
+4. System Administration and Maintenance: System administrators use UTM to simulate network environments, troubleshoot system issues, and perform maintenance tasks without affecting their primary macOS environment. 
 Security Research and Testing: UTM supports the creation of virtualized security testing environments, facilitating the evaluation of cybersecurity tools, techniques, and procedures in a controlled and isolated environment.<br />
 
 <br />  <br />
@@ -133,6 +136,7 @@ UTM is a versatile and powerful virtualization platform for macOS, offering vari
 
 <h2> Why does Kali and UTM work so well? </h2> <br />
 Key Features: <br />
+
 1. ARM64 Compatibility: <br />
 Kali Linux provides official builds optimized explicitly for the ARM64 architecture used in Apple's M1 and M2 chips. This compatibility ensures that Kali Linux can run smoothly on Mac computers equipped with these processors when virtualized using UTM. 
 
