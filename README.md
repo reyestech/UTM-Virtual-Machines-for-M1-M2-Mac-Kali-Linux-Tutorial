@@ -1,5 +1,5 @@
 # UTM | Apple Silicone | Linux Virtualization
-<h1>Hector M. Reyes  | SOC Analysts </h1>
+<h1>Hector M. Reyes  | SOC Analyst </h1>
 </h1> Group 17: Script K™</h1>
 <h1>  Comprehensive Guide: <br />
 Setting up Linux Virtual Machines using <br />
