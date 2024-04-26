@@ -25,14 +25,10 @@ Accessing type 2 hypervisors can be daunting for security professionals and stud
 <br />  <br />  
 <img src="https://i.imgur.com/ap10O7K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  <br />
 <br /><br />  
-<img src="https://i.imgur.com/gfOvXDn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />  <br />  
 
 <h3> What is Kali Linux? <h3>
 Kali Linux is a free and open-source Debian-based Linux distribution. It comes with a comprehensive set of pre-installed tools and utilities specifically designed to perform various cybersecurity testing such as penetration testing, digital forensics, and security audits. 
 <br /> <br />  
-
-<img src="https://i.imgur.com/pGFHB6D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br />
 
 1. Penetration Testing Tools: <br />
 Kali Linux includes many penetration testing tools for assessing the security of networks, systems, and applications. These tools range from network scanners and vulnerability assessment frameworks to exploitation tools and password crackers. 
@@ -52,7 +48,7 @@ Kali Linux includes tools for testing the security of web applications, APIs, an
 6. Exploitation Frameworks:  <br />
 Kali Linux features comprehensive exploitation frameworks like Metasploit, allowing users to develop and execute custom exploits against vulnerable systems and applications. These frameworks facilitate the discovery and exploitation of security weaknesses in target environments.
 
-<img src="https://i.imgur.com/ZaJJJ4n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pGFHB6D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br />
 <br />  <br />  
 
 Pre-installed Tools: <br />
