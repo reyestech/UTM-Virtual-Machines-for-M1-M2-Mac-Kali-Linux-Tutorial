@@ -26,7 +26,7 @@ Accessing type 2 hypervisors can be daunting for security professionals and stud
 <img src="https://i.imgur.com/ap10O7K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  <br />
 <br /><br />  
 
-<h3> What is Kali Linux? <h3>
+<h3> What is Kali Linux? </h3>h3>
 Kali Linux is a free and open-source Debian-based Linux distribution. It comes with a comprehensive set of pre-installed tools and utilities specifically designed to perform various cybersecurity testing such as penetration testing, digital forensics, and security audits. 
 <br /> <br />  
 
