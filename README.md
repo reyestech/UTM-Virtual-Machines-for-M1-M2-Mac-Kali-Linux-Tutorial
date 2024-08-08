@@ -5,7 +5,7 @@
 Setting up Linux Virtual Machines using <br />
 UTM for M1 & M2 Apple Silicone </h1>
 
- ### [Alternative Link | Google Docs | UTM: Kali Linux and Runbook](https://docs.google.com/document/d/e/2PACX-1vTEHYzS_IspFNTA6ePgzQaRqJIXLyUErbEIFvJ-rrroQvCRjvP8XDmRN_4UiNT-lS1XznvQMT3Amm0N/pub)
+ ### [Alternative Link | Google Docs | UTM: Kali Linux and Runbook](https://docs.google.com/document/d/1riPU2D4doYS3gR1WQBcDT8-ukhD2sQNkOAXX0CC1x7o/edit?usp=sharing)
 
 
 <h2>Purpose</h2> 
