@@ -1,10 +1,12 @@
+
+---
+
 <img src="https://i.imgur.com/8Wic9mu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br />
 
 # UTM | Apple Silicone | Linux Virtualization
 
 #### Hector M. Reyes  | SOC Analyst | UTM: Comprehensive Guide
 
-----
 
 ## **Intro**
 Our team faced some challenges when setting up our SIEM lab environment. Team members using Apple silicon-based computers encountered difficulties creating virtual machines on their personal computers. We were able to resolve this issue by using UTM, a virtualized environment that is designed for M1 and M2 Macs. This allowed our team members to have Linux distributions on their computers that they could use on the go. We created a tutorial to help other information security professionals and students facing similar issues. 
