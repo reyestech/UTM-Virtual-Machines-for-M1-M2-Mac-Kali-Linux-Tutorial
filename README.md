@@ -1,7 +1,7 @@
 
----
-
 <img src="https://i.imgur.com/8Wic9mu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br />
+
+---
 
 # UTM | Apple Silicone | Linux Virtualization
 
